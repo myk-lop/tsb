@@ -1,0 +1,13 @@
+{
+  "name": "tsb",
+  "version": "1.0.0",
+  "description": "Typescript essentials capstone project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
